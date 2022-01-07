@@ -1,5 +1,5 @@
 function returnmodule () {
-  console.log('revised actual return module added')
+  console.log('actual return module added')
 }
 
 returnmodule()
